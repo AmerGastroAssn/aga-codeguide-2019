@@ -6,7 +6,7 @@ Files Include:
   - Javascript
   - HTML
   
-  note: we already have a style guide for css reference [here](https://github.com/AmerGastroAssn/aga-styleguide-2019)
+  note: we also have a style guide for css reference [here](https://github.com/AmerGastroAssn/aga-styleguide-2019)
 
 ### AGA Techstack
 

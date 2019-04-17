@@ -12,7 +12,7 @@ Files Include:
 Tech we use:
 
 * [AngularJS] - HTML enhanced for web apps!
-* [dillinger.io] - Markdown parser done right. Fast and easy to extend.
+* [React] - JSX enhanced for web apps!
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework
@@ -47,7 +47,7 @@ e.p Jumping Links for Unbounce file can be seen as `jump-links.js`
 **Let's go & make this an awesome developer experience!! 😀 💻**
 
 
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [React]: <https://github.com/facebook/react>
    [node.js]: <http://nodejs.org>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
    [express]: <http://expressjs.com>

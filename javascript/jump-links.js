@@ -1,6 +1,6 @@
 // Use Case:
 // used for jumping links that works with url parameters esp. on unbounce
-// NOTE: this code use jQuery so make sure you have jQuery installed in you project
+// NOTE: this code use jQuery so make sure you have jQuery installed in your project
 
 <script>
 $(function() {

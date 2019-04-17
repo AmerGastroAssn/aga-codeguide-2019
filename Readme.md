@@ -7,21 +7,15 @@ Files Include:
   - HTML
   - CSS
 
-# Use Case
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
-
-### Tech
+### AGA Techstack
 
 Tech we use:
 
 * [AngularJS] - HTML enhanced for web apps!
-* [dililinger.io] - Markdown parser done right. Fast and easy to extend.
+* [dillinger.io] - Markdown parser done right. Fast and easy to extend.
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
 * [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-
-
-
+* [Express] - fast node.js network app framework
 
 ### Sites
 
@@ -44,26 +38,20 @@ e.p Jumping Links for Unbounce file can be seen as `jump-link.js`
 
 ### Todos
 
- - Write MORE Tests
- - Add Night Mode
-
-License
-----
-
-MIT
+ - Update Readme
+ - Add more Sites
+ - Add proper AGA Techstack
+ - Add more Javascript use cases
 
 
-**Let's Go make this an awesome developer experience!! 😀 💻**
+**Let's go & make this an awesome developer experience!! 😀 💻**
 
 
    [markdown-it]: <https://github.com/markdown-it/markdown-it>
    [node.js]: <http://nodejs.org>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
    [AngularJS]: <http://angularjs.org>
    [dillinger.io]: <https://dillinger.io/>
-
    [unbounce]: <https://app.unbounce.com/users/sign_in>
 

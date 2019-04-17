@@ -11,7 +11,7 @@ Files Include:
 
 Tech we use:
 
-* [AngularJS] - HTML enhanced for web apps!
+* [Angular] - HTML enhanced for web apps!
 * [React] - JSX enhanced for web apps!
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
 * [node.js] - evented I/O for the backend
@@ -52,7 +52,7 @@ e.p Jumping Links for Unbounce file can be seen as `jump-links.js`
    [node.js]: <http://nodejs.org>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
    [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
+   [Angular]: <https://angular.io/>
    [jQuery]: <https://jquery.com/>
    [unbounce]: <https://app.unbounce.com/users/sign_in>
 

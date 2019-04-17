@@ -23,7 +23,7 @@ List of all the sites we work on
 
 | Websites | Links |
 | ------ | ------ |
-| Unbounce | [Microsites hub][unbounce] |
+| Unbounce | [our microsites hub][unbounce] |
 
 
 ### Contribute & Development
@@ -33,7 +33,7 @@ Want to contribute? Great!
 Simply create a new files under specific directory and include code bit inside.
 
 Typical file name convention can be set to meet it's functionality 
-e.p Jumping Links for Unbounce file can be seen as `jump-link.js`
+e.p Jumping Links for Unbounce file can be seen as `jump-links.js`
 
 
 ### Todos

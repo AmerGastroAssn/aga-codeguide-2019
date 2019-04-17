@@ -16,6 +16,7 @@ Tech we use:
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework
+* [jQuery] - duh!
 
 ### Sites
 
@@ -52,6 +53,6 @@ e.p Jumping Links for Unbounce file can be seen as `jump-links.js`
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
    [express]: <http://expressjs.com>
    [AngularJS]: <http://angularjs.org>
-   [dillinger.io]: <https://dillinger.io/>
+   [jQuery]: <https://jquery.com/>
    [unbounce]: <https://app.unbounce.com/users/sign_in>
 

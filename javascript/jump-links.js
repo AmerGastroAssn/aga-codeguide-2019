@@ -5,10 +5,6 @@
 <script>
 $(function() {
     var url = window.location.href;
-
-  const sectionArray = ['ddw']
-  const linkArray = ['#lp-pom-button-132']
-  
   
     
   if (url.search('#gastroenterology-journal') != -1) {

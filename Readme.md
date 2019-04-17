@@ -1,11 +1,10 @@
 # AGA Code Guide 2019
-is a project for documenting frequent used standards for developing flexible, durable, and sustainable HTML,CSS and Javascript code for all AGA sites
+is a project for documenting frequent used standards for developing flexible, durable, and sustainable HTML and Javascript code for all AGA sites
 
 Files Include:
 
   - Javascript
   - HTML
-  - CSS
   
   note: we already have a style guide for css reference [here](https://github.com/AmerGastroAssn/aga-styleguide-2019)
 

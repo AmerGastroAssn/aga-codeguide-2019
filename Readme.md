@@ -3,14 +3,9 @@
 is a project for documenting frequent used standards for developing flexible, durable, and sustainable HTML and Javascript code for all AGA sites
 
 Files Include:
-.
-├── javascript
-│ ├── jump-links-easy.js
-│ └── jump-links.js
-├── html
-│ ├── tabs-lms.html
-│  
-└── README.md
+
+- Javascript
+- HTML
 
 note: we also have a style guide for css reference [here](https://github.com/AmerGastroAssn/aga-styleguide-2019)
 

@@ -1,18 +1,30 @@
+/* Background Image for showcasing Transparency effect */
+body {
+  background-image: url("assets/background-image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* Main Background with Opacity */
+.main {
+  background-color: rgba(255, 255, 255, 0.671);
+}
+
 .dropdown-menu .single-element a {
-  color: #aaabac;
+  color: #555555;
   border-bottom: 1px solid #aaabac;
 }
 
-.main {
-  background-color: rgba(255, 255, 255, 0.671);
+.nav-link {
+  color: #555555 !important;
 }
 
 .main-element {
   margin: 10px auto;
 }
 
-body {
-  background-image: url("assets/background-image.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+/* Hover color fix */
+.dropdown-menu a:hover {
+  background-color: #d7dadd94 !important;
+  color: #555555 !important;
 }

@@ -25,6 +25,7 @@ body {
 
 /* Top Nav Color fix */
 .main-element .float-right a {
+  font-size: 14px;
   color: black !important;
 }
 

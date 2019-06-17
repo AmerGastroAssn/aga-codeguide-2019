@@ -23,6 +23,15 @@ body {
   margin: 10px auto;
 }
 
+/* Top Nav Color fix */
+.main-element .float-right a {
+  color: black !important;
+}
+
+.main-element a:hover {
+  text-decoration: none !important;
+}
+
 /* Hover color fix */
 .dropdown-menu a:hover {
   background-color: #d7dadd94 !important;

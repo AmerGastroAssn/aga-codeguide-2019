@@ -62,3 +62,36 @@ h2 {
       no-repeat center;
   background-size: cover;
 }
+
+.image-5 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839185559---GettyImages-495755592.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+.image-6 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839193249---GettyImages-640947698.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+.image-7 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/20183919372---GettyImages-645732556.jpg")
+      no-repeat center;
+  background-size: cover;
+}

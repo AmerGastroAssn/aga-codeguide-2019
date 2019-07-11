@@ -1,0 +1,53 @@
+/* This stylesheet is for wordpress copy/paste as it effect only the current element with
+selector filter */
+
+selector * {
+  font-size: 16px;
+}
+
+selector i {
+  font-size: 40px;
+  padding-left: 50px;
+}
+selector h2 {
+  font-family: "Gotham Bold", Sans-serif;
+  font-size: 20px;
+}
+
+selector .header-image-global {
+  height: 250px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+}
+
+selector .image-1 {
+  background: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 253, 254, 0) 1%,
+      rgba(25, 47, 78, 0.99) 99%,
+      rgba(25, 47, 78, 1) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839182334---GettyImages-680482926.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+selector .image-2 {
+  background: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 253, 254, 0) 1%,
+      rgba(25, 47, 78, 0.99) 99%,
+      rgba(25, 47, 78, 1) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/20183916405---GettyImages-638646884.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+selector .card {
+  margin-bottom: 20px;
+}

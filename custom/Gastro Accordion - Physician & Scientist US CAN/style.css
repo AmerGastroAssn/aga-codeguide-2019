@@ -46,6 +46,17 @@ h2 {
   background-size: cover;
 }
 
+.image-4 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839181544---GettyImages-612408736.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
 .card {
   margin-bottom: 20px;
 }

@@ -23,6 +23,18 @@ selector .card {
   margin-bottom: 20px;
 }
 
+selector .first-icon img {
+  height: 80px;
+}
+
+selector .elementor-tab-title.elementor-active {
+  border-bottom: 3px solid #1f3859;
+}
+
+selector .total-price {
+  color: #008fd4;
+}
+
 selector .image-1 {
   background: linear-gradient(
       0deg,

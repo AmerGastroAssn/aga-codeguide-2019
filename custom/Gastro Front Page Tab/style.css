@@ -1,0 +1,12 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.first {
+  text-align: center;
+}
+
+.second {
+  width: 50%;
+}

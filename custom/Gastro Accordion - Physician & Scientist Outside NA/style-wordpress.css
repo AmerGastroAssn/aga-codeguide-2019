@@ -1,0 +1,113 @@
+selector {
+  font-size: 16px;
+}
+
+selector i {
+  font-size: 40px;
+  padding-left: 50px;
+}
+selector h2 {
+  font-family: "Gotham Bold", Sans-serif;
+  font-size: 20px;
+}
+
+selector .header-image-global {
+  height: 180px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+}
+
+selector .card {
+  margin-bottom: 20px;
+}
+
+selector .first-icon img {
+  height: 80px;
+}
+
+selector .elementor-tab-title.elementor-active {
+  border-bottom: 3px solid #1f3859;
+}
+
+selector .total-price {
+  color: #008fd4;
+}
+
+selector .image-1 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839182334---GettyImages-680482926.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+selector .image-2 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/20183916405---GettyImages-638646884.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+selector .image-3 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839181715---GettyImages-675458870.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+selector .image-4 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839181544---GettyImages-612408736.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+selector .image-5 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839185559---GettyImages-495755592.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+selector .image-6 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839193249---GettyImages-640947698.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+selector .image-7 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/20183919372---GettyImages-645732556.jpg")
+      no-repeat center;
+  background-size: cover;
+}

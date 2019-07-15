@@ -40,6 +40,28 @@ h2 {
 }
 /* IMAGE SETUP */
 
+.image-1 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201839182334---GettyImages-680482926.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
+.image-2 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/20183916405---GettyImages-638646884.jpg")
+      no-repeat center;
+  background-size: cover;
+}
+
 .image-3 {
   background: linear-gradient(
       0deg,

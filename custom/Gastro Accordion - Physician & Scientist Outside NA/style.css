@@ -116,3 +116,14 @@ h2 {
       no-repeat center;
   background-size: cover;
 }
+
+.image-8 {
+  background: linear-gradient(
+      0deg,
+      rgba(37, 66, 106, 1) 0%,
+      rgba(37, 66, 106, 0.500437675070028) 100%
+    ),
+    url("https://aga-cms-assets.s3.amazonaws.com/201822619413---whiteglobehands_800px.jpg")
+      no-repeat center;
+  background-size: cover;
+}

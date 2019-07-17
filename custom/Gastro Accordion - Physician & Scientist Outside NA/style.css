@@ -126,4 +126,6 @@ h2 {
     url("https://aga-cms-assets.s3.amazonaws.com/201822619413---whiteglobehands_800px.jpg")
       no-repeat center;
   background-size: cover;
+  background-position: top;
+  height: 500px;
 }
